@@ -24,14 +24,14 @@ h4 {
 
 .amiable {
   border: 1px solid #22aa44;
-  box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
+  box-shadow:  -1px 1px #44cc66, -2px 2px #44cc66, -3px 3px #44cc66, -4px 4px #44cc66, -5px 5px #44cc66;
   background-color: #44cc66;
 
 }
 
 .indifferent {
   background-color: #dddd22;
-  box-shadow:  -1px 1px #ffff4d, -2px 2px #ffff4d, -3px 3px #ffff4d, -4px 4px #ffff4d, -5px 5px #ffff4d;
+  box-shadow:  -1px 1px  #e6e600, -2px 2px #ffff4d, -3px 3px #ffff4d, -4px 4px #ffff4d, -5px 5px #ffff4d;
 }
 
 .dubious {
