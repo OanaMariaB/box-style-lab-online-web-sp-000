@@ -62,7 +62,7 @@ h4 {
   width: 303%;
 }
 
-div > img {
+ img {
   border: 1px solid rgb(48,48,48);
   box-sizing: border-box;
 }
